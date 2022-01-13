@@ -10,7 +10,7 @@
   <br/>
 ```
 
-  > Usadp para pular linhas dentro dos textos ou em outras circunstâncias.
+  > Usado para pular linhas dentro dos textos ou em outras circunstâncias.
 
 ```html
   <pre></pre>
