@@ -33,7 +33,7 @@ Os pacientes poderão marcar, remarcar, consultar e cancelar consultas.
 | + cancelarConsulta() |
 | + consultarConsulta() |
 
-[Resolução.](main.java)
+[Resolução.](Paciente.java)
 
 <!-- Informações -->
 ## &#8505; Informações
