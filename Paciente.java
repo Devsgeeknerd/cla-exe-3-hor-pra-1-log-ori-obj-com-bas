@@ -9,7 +9,12 @@ public class Paciente {
     private String telefone;
     private String enderenco;
 
+    public int getCodigo() {
+        return codigo;
+    }
+
     public Paciente(int codigo, String nome, String sobrenome, int idade, String sexo, String telefone,
             String enderenco) {
+
     }
 }
