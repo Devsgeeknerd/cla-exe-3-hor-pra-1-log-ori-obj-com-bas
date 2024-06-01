@@ -23,4 +23,8 @@ public class Paciente {
         this.telefone = telefone;
         this.enderenco = enderenco;
     }
+
+    public void marcarConsulta() {
+        System.out.println("Consulta marcada para o paciente " + nome + " " + sobrenome + ".");
+    }
 }
