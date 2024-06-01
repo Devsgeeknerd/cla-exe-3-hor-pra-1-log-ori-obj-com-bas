@@ -21,6 +21,10 @@ public class Paciente {
         return nome;
     }
 
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
     public Paciente(int codigo, String nome, String sobrenome, int idade, String sexo, String telefone,
             String enderenco) {
         this.codigo = codigo;
