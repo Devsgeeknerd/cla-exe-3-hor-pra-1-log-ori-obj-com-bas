@@ -13,6 +13,10 @@ public class Paciente {
         return codigo;
     }
 
+    public void setCodigo(String codigo) {
+        this.codigo = codigo;
+    }
+
     public Paciente(int codigo, String nome, String sobrenome, int idade, String sexo, String telefone,
             String enderenco) {
         this.codigo = codigo;
