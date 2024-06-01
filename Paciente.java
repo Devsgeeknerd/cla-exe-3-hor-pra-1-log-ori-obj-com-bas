@@ -9,6 +9,6 @@ public class Paciente {
     private String telefone;
     private String enderenco;
 
-    public Paciente() {
+    public Paciente(int codigo) {
     }
 }
