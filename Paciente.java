@@ -41,6 +41,10 @@ public class Paciente {
         this.idade = idade;
     }
 
+    public String getSexo() {
+        return sexo;
+    }
+
     public Paciente(int codigo, String nome, String sobrenome, int idade, String sexo, String telefone,
             String enderenco) {
         this.codigo = codigo;
