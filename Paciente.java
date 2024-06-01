@@ -18,5 +18,6 @@ public class Paciente {
         this.codigo = codigo;
         this.nome = nome;
         this.sobrenome = sobrenome;
+        this.idade = idade;
     }
 }
