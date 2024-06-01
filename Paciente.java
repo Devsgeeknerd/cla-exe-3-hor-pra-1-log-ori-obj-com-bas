@@ -53,6 +53,10 @@ public class Paciente {
         return telefone;
     }
 
+    public void setTelefone(String telefone) {
+        this.telefone = telefone;
+    }
+
     public Paciente(int codigo, String nome, String sobrenome, int idade, String sexo, String telefone,
             String enderenco) {
         this.codigo = codigo;
