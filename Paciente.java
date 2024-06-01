@@ -61,6 +61,10 @@ public class Paciente {
         return enderenco;
     }
 
+    public void setEnderenco(String enderenco) {
+        this.enderenco = enderenco;
+    }
+
     public Paciente(int codigo, String nome, String sobrenome, int idade, String sexo, String telefone,
             String enderenco) {
         this.codigo = codigo;
