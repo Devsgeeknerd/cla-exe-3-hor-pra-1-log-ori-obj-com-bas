@@ -45,6 +45,10 @@ public class Paciente {
         return sexo;
     }
 
+    public void setSexo(String sexo) {
+        this.sexo = sexo;
+    }
+
     public Paciente(int codigo, String nome, String sobrenome, int idade, String sexo, String telefone,
             String enderenco) {
         this.codigo = codigo;
