@@ -21,5 +21,6 @@ public class Paciente {
         this.idade = idade;
         this.sexo = sexo;
         this.telefone = telefone;
+        this.enderenco = enderenco;
     }
 }
