@@ -37,6 +37,10 @@ public class Paciente {
         return idade;
     }
 
+    public void setIdade(String idade) {
+        this.idade = idade;
+    }
+
     public Paciente(int codigo, String nome, String sobrenome, int idade, String sexo, String telefone,
             String enderenco) {
         this.codigo = codigo;
